@@ -2,15 +2,15 @@
 {
   "presubmit": [
     {
-      "name": "num-traits_host_test_src_lib",
-      "host": true
+      "host": true,
+      "name": "num-traits_host_test_src_lib"
     },
     {
       "name": "num-traits_device_test_src_lib"
     },
     {
-      "name": "num-traits_host_test_tests_cast",
-      "host": true
+      "host": true,
+      "name": "num-traits_host_test_tests_cast"
     },
     {
       "name": "num-traits_device_test_tests_cast"
