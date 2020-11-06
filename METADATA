@@ -7,13 +7,13 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "https://static.crates.io/crates/num-traits/num-traits-0.2.12.crate"
+    value: "https://static.crates.io/crates/num-traits/num-traits-0.2.14.crate"
   }
-  version: "0.2.12"
+  version: "0.2.14"
   license_type: NOTICE
   last_upgrade_date {
     year: 2020
-    month: 7
-    day: 20
+    month: 10
+    day: 29
   }
 }
