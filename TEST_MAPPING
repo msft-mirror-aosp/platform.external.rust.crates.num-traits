@@ -37,13 +37,40 @@
       "name": "authfs_device_test_src_lib"
     },
     {
+      "name": "avmdtool.test"
+    },
+    {
+      "name": "avmdtool_tests"
+    },
+    {
+      "name": "bluetooth_with_facades.test"
+    },
+    {
+      "name": "compos_verify.test"
+    },
+    {
+      "name": "composd_cmd.test"
+    },
+    {
       "name": "libapkverify.integration_test"
     },
     {
       "name": "libapkverify.test"
     },
     {
-      "name": "libidsig.test"
+      "name": "libpvmfw_avb.integration_test"
+    },
+    {
+      "name": "libuwb_adaptation_jni_tests"
+    },
+    {
+      "name": "libuwb_core_tests"
+    },
+    {
+      "name": "libuwb_uci_jni_rust_tests"
+    },
+    {
+      "name": "libuwb_uci_packet_tests"
     },
     {
       "name": "microdroid_manager_test"
@@ -55,7 +82,7 @@
       "name": "num-traits_test_tests_cast"
     },
     {
-      "name": "virtualizationservice_device_test"
+      "name": "virtualizationmanager_device_test"
     }
   ],
   "presubmit-rust": [
@@ -69,13 +96,40 @@
       "name": "authfs_device_test_src_lib"
     },
     {
+      "name": "avmdtool.test"
+    },
+    {
+      "name": "avmdtool_tests"
+    },
+    {
+      "name": "bluetooth_with_facades.test"
+    },
+    {
+      "name": "compos_verify.test"
+    },
+    {
+      "name": "composd_cmd.test"
+    },
+    {
       "name": "libapkverify.integration_test"
     },
     {
       "name": "libapkverify.test"
     },
     {
-      "name": "libidsig.test"
+      "name": "libpvmfw_avb.integration_test"
+    },
+    {
+      "name": "libuwb_adaptation_jni_tests"
+    },
+    {
+      "name": "libuwb_core_tests"
+    },
+    {
+      "name": "libuwb_uci_jni_rust_tests"
+    },
+    {
+      "name": "libuwb_uci_packet_tests"
     },
     {
       "name": "microdroid_manager_test"
@@ -87,7 +141,7 @@
       "name": "num-traits_test_tests_cast"
     },
     {
-      "name": "virtualizationservice_device_test"
+      "name": "virtualizationmanager_device_test"
     }
   ]
 }
