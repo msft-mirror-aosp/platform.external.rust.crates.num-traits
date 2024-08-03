@@ -8,15 +8,9 @@ MODULE := $(LOCAL_DIR)
 MODULE_CRATE_NAME := num_traits
 MODULE_RUST_CRATE_TYPES := rlib
 MODULE_SRCS := $(LOCAL_DIR)/src/lib.rs
-MODULE_RUST_EDITION := 2018
+MODULE_RUST_EDITION := 2021
 MODULE_RUSTFLAGS += \
-	--cfg 'has_div_euclid' \
-	--cfg 'has_float_to_from_bytes' \
-	--cfg 'has_int_to_from_bytes' \
-	--cfg 'has_is_subnormal' \
-	--cfg 'has_leading_trailing_ones' \
-	--cfg 'has_reverse_bits' \
-	--cfg 'has_to_int_unchecked'
+	--cfg 'has_total_cmp'
 
 MODULE_LIBRARY_DEPS := \
 	
